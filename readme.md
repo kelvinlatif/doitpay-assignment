@@ -21,8 +21,8 @@ This repository contains automated test cases created for the e-commerce website
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/katalon-automation-project.git
-cd katalon-automation-project
+git clone https://github.com/kelvinlatif/doitpay-assignment.git
+```
 
 ### Open the Project
 1. Launch Katalon Studio.
